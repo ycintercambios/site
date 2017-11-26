@@ -2127,6 +2127,19 @@ body {
     height: auto !important;
   }
 }
+.cid-qC71dMXSnD {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
+}
+.cid-qC71dMXSnD .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-qC71dMXSnD .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qC414NtKkf {
   padding-top: 90px;
   padding-bottom: 90px;
